@@ -2,6 +2,7 @@
   "name": "fem-arch-studios",
   "version": "0.1.0",
   "private": true,
+   "homepage":"https://ahmedreda958.github.io/FEM-Arch-Studio/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
